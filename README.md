@@ -29,9 +29,3 @@ I am currently enrolled in a Bachelor's Degree in Computer Engineering at Univer
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev) <br>
-
-## Github Statistics
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedroc21s&show_icons=true&locale=en)-->
-
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Pedroc21s&show_icons=true&locale=en&layout=compact)-->
