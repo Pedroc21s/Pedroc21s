@@ -10,7 +10,7 @@ I am currently enrolled in a Bachelor's Degree in Computer Engineering at Univer
 
 🔐 Aiming to pursue a Master's Degree in Cybersecurity.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omeir2404/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-mb-correia/)
 
 
 ## Skillset
