@@ -1,16 +1,37 @@
-## Hi there 👋
+# **Pedro Correia** 🚀
+ 💻 Third-Year Computer Engineering Student 
 
-<!--
-**Pedroc21s/Pedroc21s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am currently enrolled in a Bachelor's Degree in Computer Engineering at University of Lisbon, with graduation expected this summer. I have a strong academic record, maintaining an 18/20 average throughout the program.
 
-Here are some ideas to get you started:
+📖 I have a keen interest for computer networks, cybersecurity, statistics, astronomy, astrophysics and calculus. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I'm really passionate about learning new technologies and expand my skillset. I am a quick learner.
+
+🔐 Aiming to pursue a Master's Degree in Cybersecurity.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omeir2404/)
+
+
+## Skillset
+
+### Programming Languages:
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,mysql,html,css,js,haskell)](https://skillicons.dev) <br>
+
+### Tools:
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github)](https://skillicons.dev) <br>
+
+### Operating Systems:
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev) <br>
+
+## Github Statistics
+
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedroc21s&show_icons=true&locale=en)-->
+
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Pedroc21s&show_icons=true&locale=en&layout=compact)-->
